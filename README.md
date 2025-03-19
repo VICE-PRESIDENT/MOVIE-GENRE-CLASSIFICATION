@@ -78,4 +78,3 @@ If you find this project helpful, please give it a ⭐ and share your feedback!
 
 ---
 
-Would you like any modifications or additional details for the README?
